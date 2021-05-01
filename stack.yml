@@ -7,5 +7,4 @@ functions:
     lang: node
     handler: ./mico-wire-tap-node
     image: zwickel/mico-wire-tap-node:latest
-    environment:
-      NODE_OPTIONS: "--inspect"
+    
